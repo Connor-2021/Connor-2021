@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img srce="https://raw.githubusercontent.com/MartinHeinz/aster/wave/gif" width="30px">, I am Connor Sansam 
 
 <!--
 **Connor-2021/Connor-2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
