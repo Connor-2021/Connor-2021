@@ -4,7 +4,7 @@
 
 Introduction
 ------
-I have had jobs in different sectors and this has allowed me to gain many skills that I can use in my future role, some of these skills that I have managed to aquire are been able to manage a team and support them in their roles and ensure they are doing their best at what they do, I also have been gain exceptional communication skills and also be prepared for anything that I may have to do in my future role, and also be able to complete the task that I have been set to the best of my capabilities. 
+I have had jobs in different sectors and this has allowed me to gain many skills that I can use in my future role, some of these skills that I have managed to acquire are been able to manage a team and support them in their roles and ensure they are doing their best at what they do, I also have been gain exceptional communication skills and also be prepared for anything that I may have to do in my future role, and also be able to complete the task that I have been set to the best of my capabilities. 
 
 I am currently learning AWS through the Re-Start Program at techTalent Academy, this is allowing me increase my skills and knowledge around computing and the different aspects to computing and to be a qualified AWS Cloud Practioner. 
 
